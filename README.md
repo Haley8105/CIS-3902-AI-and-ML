@@ -6,5 +6,5 @@ Major: Mathematics <br>
 Semester: Spring 2026
  
 This repository contains coursework and projects for CIS 3902<br><br>
- <a href="[https://github.com/Haley8105/CIS-3902-Data-Mining/blob/main/Reading_Files_in_Colab_with_Jupyter_Notebook.ipynb](https://github.com/Haley8105/CIS-3902-AI-and-ML/blob/main/Reading_Files_in_Colab_with_Jupyter_Notebook.ipynb)">Reading Various Types of Files in Colab</a><br>
+ <a href="https://github.com/Haley8105/CIS-3902-Data-Mining/blob/main/Reading_Files_in_Colab_with_Jupyter_Notebook.ipynb">Reading Various Types of Files in Colab</a><br>
 
