@@ -11,3 +11,6 @@ This repository contains coursework and projects for CIS 3902<br><br>
  <a href="https://github.com/Haley8105/CIS-3902-AI-and-ML/blob/main/Linear_Regression_Example_with_the_Housing_Data.ipynb">Linear Regression Example</a><br>
 
 <a href="https://github.com/Haley8105/CIS-3902-AI-and-ML/blob/main/bias_variance_overfitting_fertilizer_crop_yield_starter.ipynb">Bias, variance, overfitting with fertilizer data</a><br> 
+
+<a href="https://github.com/Haley8105/CIS-3902-AI-and-ML/blob/main/regularization.ipynb">Regularization</a><br> 
+
