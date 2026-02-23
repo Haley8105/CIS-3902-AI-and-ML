@@ -15,3 +15,5 @@ This repository contains coursework and projects for CIS 3902<br><br>
 <a href="https://github.com/Haley8105/CIS-3902-AI-and-ML/blob/main/regularization.ipynb">Regularization</a><br> 
 
 <a href="https://github.com/Haley8105/CIS-3902-AI-and-ML/blob/main/naive_bayes_example.ipynb">Naive Bayes Example</a><br> 
+
+<a href="https://github.com/Haley8105/CIS-3902-AI-and-ML/blob/main/Data_Cleaning_Exercise.ipynb">Data Cleaning Exercise</a><br> 
