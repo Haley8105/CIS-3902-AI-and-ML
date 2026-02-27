@@ -20,4 +20,4 @@ This repository contains coursework and projects for CIS 3902<br><br>
 
 <a href="https://github.com/Haley8105/CIS-3902-AI-and-ML/blob/main/Copy_of_data_cleaning_exercise.ipynb">Data Wrangling Exercise</a><br> 
 
-<a href="https://github.com/Haley8105/CIS-3902-AI-and-ML/blob/main/Copy_of_data_cleaning_exercise.ipynb">Titanic Decision Tree Example</a><br> 
+<a href="https://github.com/Haley8105/CIS-3902-AI-and-ML/blob/main/Copy_of_titanic_decision_tree.ipynb">Titanic Decision Tree Example</a><br> 
