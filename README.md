@@ -23,3 +23,6 @@ This repository contains coursework and projects for CIS 3902<br><br>
 <a href="https://github.com/Haley8105/CIS-3902-AI-and-ML/blob/main/Copy_of_titanic_decision_tree.ipynb">Titanic Decision Tree Example</a><br> 
 
 <a href="https://github.com/Haley8105/CIS-3902-AI-and-ML/blob/main/Titanic_Seaborn_Decision_Tree.ipynb">Decision tree practice- titanic</a><br> 
+
+<a href="https://github.com/Haley8105/CIS-3902-AI-and-ML/blob/main/Copy_of_Mushroom_Reduced_Student.ipynb">Decision tree practice- Mushrooms</a><br> 
+
