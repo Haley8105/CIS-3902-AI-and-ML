@@ -27,3 +27,5 @@ This repository contains coursework and projects for CIS 3902<br><br>
 <a href="https://github.com/Haley8105/CIS-3902-AI-and-ML/blob/main/Copy_of_Mushroom_Reduced_Student.ipynb">Decision tree practice- Mushrooms</a><br> 
 
 <a href="https://github.com/Haley8105/CIS-3902-AI-and-ML/blob/main/Copy_of_Autoviz_penguins(3).ipynb">Autoviz Penguin Dataset</a><br> 
+
+<a href="https://github.com/Haley8105/CIS-3902-AI-and-ML/blob/main/random_forest_crime_assignment_complete_(1).ipynb">Random Forest Crime Assignment</a><br> 
