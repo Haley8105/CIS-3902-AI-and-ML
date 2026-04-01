@@ -30,5 +30,5 @@ This repository contains coursework and projects for CIS 3902<br><br>
 
 <a href="https://github.com/Haley8105/CIS-3902-AI-and-ML/blob/main/random_forest_crime_assignment_complete_(1).ipynb">Random Forest Crime Assignment</a><br> 
 
-<a href="">Cohens Kappa ML</a><br> 
+<a href="https://github.com/Haley8105/CIS-3902-AI-and-ML/blob/main/cohens_kappa_ml_notebook_(1).ipynb">Cohens Kappa ML</a><br> 
 
