@@ -33,3 +33,4 @@ This repository contains coursework and projects for CIS 3902<br><br>
 <a href="https://github.com/Haley8105/CIS-3902-AI-and-ML/blob/main/cohens_kappa_ml_notebook_(1).ipynb">Cohens Kappa ML</a><br> 
 
 <a href="https://github.com/Haley8105/CIS-3902-AI-and-ML/blob/main/Customer_Segmentation_Using_Clustering.ipynb">Customer segmentation using clustering </a><br> 
+This notebook performs customer segmentation uses univariate and multivariate clustering techniques to better understand customer spending habits based on sex, age, annual income, and spending score. This analysis can be used to help better marketing strategies. 
